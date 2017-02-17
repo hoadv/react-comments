@@ -37,7 +37,7 @@ module.exports = {
 
 function pretendRequest(username, pass, cb) {
   setTimeout(() => {
-  if (username === 'admin' && pass === 'admin') {
+  if (1===1) {
     cb({
     authenticated: true,
     token: Math.random().toString(36).substring(7)
