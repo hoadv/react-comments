@@ -88,6 +88,12 @@ span.psw {
     padding: 15px;
     box-sizing: border-box;
 }
+
+.comment-footer {
+    padding: 15px;
+    box-sizing: border-box;
+}
+
 .replay-container {
     padding-left: 15px;
 }
